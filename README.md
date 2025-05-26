@@ -1,11 +1,10 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?text=Mostafa El-Marzouki&animation=fadeIn&type=venom&color=gradient&height=200"/>
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=5000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey, I'm a Senior Software Engineer; with 8+ years of experience; driving innovation; in dynamic startup environments; Proficient in backend development; system design and more..." alt="Typing SVG"/>
+    <img src="https://capsule-render.vercel.app/api?text=Mostafa+El-Marzouki&animation=fadeIn&type=venom&color=gradient&height=200"/>
+    <img src="https://readme-typing-svg.demolab.com?size=20&center=true&vCenter=true&width=435&lines=Hey,+I'm+a+Senior+Software+Engineer;with+more+than+8+years+of+experience;driving+innovation;in+dynamic+startup+environments;Proficient+in+backend+development;system+design+and+more.." alt="Summary"/>
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/elmarzouki/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit%20my%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-        " alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/Visit%20my%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:mostafam.elmarzouki@gmail.com">
         <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
@@ -50,5 +49,5 @@
     <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=14&duration=5000&color=33FF33&center=true&vCenter=true&width=435&lines= and more..." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?size=14&center=true&vCenter=true&width=435&lines=and+more..." alt="Typing SVG"/>
 </div>
