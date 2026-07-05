@@ -13,6 +13,9 @@
 
 <div align="center">
     <h2 align="left">🛠️ Languages and Tools</h2>
+    <img src="https://img.shields.io/badge/Claude_Code-555?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+    <img src="https://img.shields.io/badge/AI-Gemini-orange?style=for-the-badge&logo=google-gemini" alt="Google Gemini" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typesceipt" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="GO" />
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -33,6 +36,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" />
+    <img src="https://img.shields.io/badge/google--cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
